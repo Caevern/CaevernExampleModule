@@ -7,4 +7,4 @@ Then, compile the project:
 ```
 cargo build --release --target wasm32-unknown-unknown
 ```
-Now you can find the compiled wasm module in `target/wasm32-unknown-unknown/debug/caevern_example_module.wasm`.
+Now you can find the compiled wasm module in `target/wasm32-unknown-unknown/release/caevern_example_module.wasm`.
